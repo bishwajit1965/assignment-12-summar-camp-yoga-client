@@ -1,0 +1,72 @@
+[
+  {
+    "instructorName": "John Smith",
+    "enrolledStudents": 20,
+    "email": "john.smith@gmail.com",
+    "instructorImage": "https://i.ibb.co/fGct2hy/Instructors-1.jpg",
+    "yogaName": "Vinyasa Flow"
+  },
+  {
+    "instructorName": "Emily Davis",
+    "enrolledStudents": 15,
+    "email": "emily.davis@gmail.com",
+    "instructorImage": "https://i.ibb.co/2ZnxK1C/Instructors-3.jpg",
+    "yogaName": "Hatha Yoga"
+  },
+  {
+    "instructorName": "Michael Johnson",
+    "enrolledStudents": 30,
+    "email": "michael.johnson@gmail.com",
+    "instructorImage": "https://i.ibb.co/s3KhvtT/Instructors-2.jpg",
+    "yogaName": "Power Yoga"
+  },
+  {
+    "instructorName": "Sarah Thompson",
+    "enrolledStudents": 25,
+    "email": "dara.thomson@gmail.com",
+    "instructorImage": "https://i.ibb.co/fGct2hy/Instructors-1.jpg",
+    "yogaName": "Ashtanga Yoga"
+  },
+  {
+    "instructorName": "David Rodriguez",
+    "enrolledStudents": 18,
+    "email": "david@gmail.com",
+    "instructorImage": "https://i.ibb.co/s3KhvtT/Instructors-2.jpg",
+    "yogaName": "Yin Yoga"
+  },
+  {
+    "instructorName": "Emma Wilson",
+    "enrolledStudents": 12,
+    "email": "emma.wilson@gmail.com",
+    "instructorImage": "https://i.ibb.co/2ZnxK1C/Instructors-3.jpg",
+    "yogaName": "Restorative Yoga"
+  },
+  {
+    "instructorName": "Alex Turner",
+    "enrolledStudents": 22,
+    "email": "aalex.turner@gmail.com",
+    "instructorImage": "https://i.ibb.co/fGct2hy/Instructors-1.jpg",
+    "yogaName": "Kundalini Yoga"
+  },
+  {
+    "instructorName": "Olivia Parker",
+    "enrolledStudents": 27,
+    "email": "david.parker@gmail.com",
+    "instructorImage": "https://i.ibb.co/2ZnxK1C/Instructors-3.jpg",
+    "yogaName": "Bikram Yoga"
+  },
+  {
+    "instructorName": "Daniel Lee",
+    "enrolledStudents": 16,
+    "email": "daniellee@gmail.com",
+    "instructorImage": "https://i.ibb.co/fGct2hy/Instructors-1.jpg",
+    "yogaName": "Yoga Nidra"
+  },
+  {
+    "instructorName": "Sophia Adams",
+    "enrolledStudents": 10,
+    "email": "sophilaadams@gmail.com",
+    "instructorImage": "https://i.ibb.co/s3KhvtT/Instructors-2.jpg",
+    "yogaName": "Iyengar Yoga"
+  }
+]
